@@ -10,4 +10,4 @@ The realization employees the famous Normal Equation B = (X'X)-1(X'Y), where X s
 
 The second part shows how to call our own-built 'lm()' function.      
 
-The third part shows how to save the output into a file for further reference. It also compares the result of our function with the built-in 'lm()' function in R, which we will see give exactly the same results!
+The third part shows how to save the output into a .txt file for further reference. It also compares the result of our function with the built-in 'lm()' function in R, which we will see give exactly the same results!
